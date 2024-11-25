@@ -4,17 +4,18 @@
         "item": "mysticalagriculture:iron_seeds"
     },
     "render": {
-        "type": "crop",
+        "type": "immersiveengineering:generic",
         "block": "mysticalagriculture:iron_crop"
     },
     "results": [
         {
-            "item": "mysticalagriculture:iron_essence",
-            "count": 2
+            "count": 2,
+            "id": "mysticalagriculture:iron_essence"
         }
     ],
     "soil": {
         "item": "minecraft:farmland"
     },
     "time": 800
+  
 }
