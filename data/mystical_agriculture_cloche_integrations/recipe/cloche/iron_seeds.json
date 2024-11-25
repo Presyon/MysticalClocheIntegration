@@ -5,7 +5,7 @@
     },
     "render": {
         "type": "immersiveengineering:generic",
-        "value": "mysticalagriculture:iron_crop"
+        "block": "mysticalagriculture:iron_crop"
     },
     "results": [
         {
