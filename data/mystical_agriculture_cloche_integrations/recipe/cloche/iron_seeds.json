@@ -1,0 +1,21 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "mysticalagriculture:iron_seeds"
+    },
+    "render": {
+        "type": "immersiveengineering:generic",
+        "value": "mysticalagriculture:iron_crop"
+    },
+    "results": [
+        {
+            "item": "mysticalagriculture:iron_essence",
+            "count": 2
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 800,
+  
+}
