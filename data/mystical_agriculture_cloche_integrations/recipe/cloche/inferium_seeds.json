@@ -1,16 +1,16 @@
 {
     "type": "immersiveengineering:cloche",
     "input": {
-        "item": "mysticalagriculture:iron_seeds"
+        "item": "mysticalagriculture:inferium_seeds"
     },
     "render": {
         "type": "immersiveengineering:generic",
-        "block": "mysticalagriculture:iron_crop"
+        "block": "mysticalagriculture:inferium_crop"
     },
     "results": [
         {
             "count": 2,
-            "id": "mysticalagriculture:iron_essence"
+            "id": "mysticalagriculture:inferium_essence"
         }
     ],
     "soil": {
