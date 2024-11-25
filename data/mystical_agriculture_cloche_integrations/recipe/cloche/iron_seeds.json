@@ -9,8 +9,8 @@
     },
     "results": [
         {
-            "item": "mysticalagriculture:iron_essence",
-            "count": 2
+            "count": 2,
+            "id": "mysticalagriculture:iron_essence"
         }
     ],
     "soil": {
