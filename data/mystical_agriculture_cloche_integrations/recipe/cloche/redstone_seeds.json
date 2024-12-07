@@ -1,0 +1,21 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "mysticalagriculture:redstone_seeds"
+    },
+    "render": {
+        "type": "immersiveengineering:generic",
+        "block": "mysticalagriculture:redstone_crop"
+    },
+    "results": [
+        {
+            "count": 2,
+            "id": "mysticalagriculture:redstone_essence"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 800
+  
+}

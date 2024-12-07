@@ -1,0 +1,21 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "mysticalagriculture:tin_seeds"
+    },
+    "render": {
+        "type": "immersiveengineering:generic",
+        "block": "mysticalagriculture:tin_crop"
+    },
+    "results": [
+        {
+            "count": 2,
+            "id": "mysticalagriculture:tin_essence"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 800
+  
+}

@@ -1,0 +1,21 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "mysticalagriculture:certus_quartz_seeds"
+    },
+    "render": {
+        "type": "immersiveengineering:generic",
+        "block": "mysticalagriculture:certus_quartz_crop"
+    },
+    "results": [
+        {
+            "count": 2,
+            "id": "mysticalagriculture:certus_quartz_essence"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 800
+  
+}

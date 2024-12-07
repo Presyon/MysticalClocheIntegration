@@ -1,0 +1,21 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "mysticalagriculture:nickel_seeds"
+    },
+    "render": {
+        "type": "immersiveengineering:generic",
+        "block": "mysticalagriculture:nickel_crop"
+    },
+    "results": [
+        {
+            "count": 2,
+            "id": "mysticalagriculture:nickel_essence"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 800
+  
+}
