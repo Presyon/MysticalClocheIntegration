@@ -1,0 +1,1 @@
+Hello! Thanks for checking out my datapack, it is not finished yet but a work in progress. If you want to download, make sure to download the zip file under LICENSE and add it to your worlds datapacks folder. I can't seem to get the github download to work properly and not add an extra folder. Happy growing!
